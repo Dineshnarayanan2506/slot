@@ -1,4 +1,4 @@
-# Ex02 Time Table
+# Ex04 Time Table
 ## Date: 17.11.2026
 
 ## AIM
@@ -35,15 +35,15 @@ table.html
     <title>Experiment 4</title>
 </head>
 <body>
-<center>
+
     <img src="logo.png" width="800" height="150">
-</center>
-</body>
+
+
 <h1 align="center">
     SLOT TIME TABLE - DINESH N (26019310)
 </h1>
 
-<table border="2" cellpadding="10" cellspacing="1" align="center" bordercolor="black" width="800" height="150">
+<table border="2" cellpadding="10" cellspacing="1" align="center" width="800" height="150">
 
     <tr bgcolor="yellow" align="center">
         <th>Day/Time</th>
@@ -111,7 +111,7 @@ table.html
 </h2>
 
 
-<table border="2" cellpadding="10" cellspacing="3" align="center" bordercolor="black" width="800" height="150">
+<table border="2" cellpadding="10" cellspacing="3" align="center" width="800" height="150">
     <tr align="center">
         <th>S.No.</th>
         <th>Subject Code</th>
@@ -161,6 +161,6 @@ table.html
 
 ## OUTPUT
 
-![alt text](image.png)
+![alt text](<Screenshot (20).png>)
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
